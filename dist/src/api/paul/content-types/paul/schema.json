@@ -1,0 +1,18 @@
+{
+    "kind": "collectionType",
+    "collectionName": "pauls",
+    "info": {
+        "singularName": "paul",
+        "pluralName": "pauls",
+        "displayName": "paul"
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "pluginOptions": {},
+    "attributes": {
+        "paulsingharon": {
+            "type": "string"
+        }
+    }
+}
